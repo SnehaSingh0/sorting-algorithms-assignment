@@ -1,0 +1,6 @@
+dataset size,algorithm,execution time,status
+20000,Bubble Sort,56.248850,PASS
+20000,Selection Sort,46.763717,PASS
+20000,Insertion Sort,17.099703,PASS
+20000,Merge Sort,0.085765,PASS
+20000,Quick Sort,0.059127,PASS
